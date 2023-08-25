@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/queuing/static/css/main.87394112.css",
+    "main.js": "/queuing/static/js/main.2d2cccd7.js",
+    "static/media/bell.svg": "/queuing/static/media/bell.2fb2b14ad2d0c7a8cd9176bc459c875d.svg",
+    "index.html": "/queuing/index.html",
+    "main.87394112.css.map": "/queuing/static/css/main.87394112.css.map",
+    "main.2d2cccd7.js.map": "/queuing/static/js/main.2d2cccd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87394112.css",
+    "static/js/main.2d2cccd7.js"
+  ]
+}
