@@ -1,0 +1,26 @@
+.btn__add {
+  position: fixed !important;
+  right: 0 !important;
+  width: 50px !important;
+  height: 100px !important;
+  white-space: pre-wrap !important;
+  background-color: #fff2e7;
+  color: #ff7506;
+}
+
+th {
+  background-color: #ff9138 !important;
+  color: white !important;
+}
+
+.ant-select-item-option-content > .anticon svg {
+  fill: red;
+}
+
+:where(.css-dev-only-do-not-override-1wazalj).ant-layout-header {
+  height: 64px;
+  padding-inline: 7px;
+  color: rgba(0, 0, 0, 0.88);
+  line-height: 64px;
+  background: #001529;
+}
